@@ -1,0 +1,2 @@
+# practiceSQL
+some sqlserver querys
